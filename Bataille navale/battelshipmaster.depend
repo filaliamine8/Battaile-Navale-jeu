@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1703696110 source:c:\users\filal\onedrive\bureau\nouveau dossier (2)\battelshipmaster\battleship.c
+	"header.h"
+
+1703634245 c:\users\filal\onedrive\bureau\nouveau dossier (2)\battelshipmaster\header.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+
+1703376879 source:c:\users\filal\onedrive\bureau\nouveau dossier (2)\battelshipmaster\main.c
+	"header.h"
+
+1703875401 source:c:\users\filal\onedrive\bureau\nouveau dossier (2)\battelshipmaster - copie\main.c
+	"header.h"
+	<stdio.h>
+	<time.h>
+
+1704821092 c:\users\filal\onedrive\bureau\nouveau dossier (2)\battelshipmaster - copie\header.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+
+1704831160 source:c:\users\filal\onedrive\bureau\nouveau dossier (2)\battelshipmaster - copie\battleship.c
+	"header.h"
+
+1705416856 source:c:\users\filal\onedrive\bureau\battelshipmaster - copie\main.c
+	"header.h"
+
+1705493996 c:\users\filal\onedrive\bureau\battelshipmaster - copie\header.h
+	<sys/stat.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+	<unistd.h>
+
+1705498284 source:c:\users\filal\onedrive\bureau\battelshipmaster - copie\battleship.c
+	"header.h"
+
+1705498284 source:c:\users\filal\onedrive\bureau\nouveau dossier (3)\battelshipmaster\battleship.c
+	"header.h"
+
+1705493996 c:\users\filal\onedrive\bureau\nouveau dossier (3)\battelshipmaster\header.h
+	<sys/stat.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+	<unistd.h>
+
+1705416856 source:c:\users\filal\onedrive\bureau\nouveau dossier (3)\battelshipmaster\main.c
+	"header.h"
+
